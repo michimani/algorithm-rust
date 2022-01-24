@@ -2,8 +2,8 @@ use proconio::input;
 
 pub fn run() {
   println!(
-    "a1: 値の交換 - exchange of values
-  1st: x, 2nd: y"
+    "a1: 値の交換 - exchange of values\n\
+    1st: x, 2nd: y"
   );
 
   input! {
