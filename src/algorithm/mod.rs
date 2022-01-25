@@ -1,1 +1,1 @@
-pub mod algorithm_a;
+pub mod a;

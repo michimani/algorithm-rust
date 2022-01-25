@@ -14,8 +14,8 @@ fn main() {
 
 fn run(code: &str) {
     match code {
-        "a1" => algorithm::algorithm_a::a1::run(),
-        "a2" => algorithm::algorithm_a::a2::run(),
+        "a1" => algorithm::a::a1::run(),
+        "a2" => algorithm::a::a2::run(),
         _ => println!("algorithm '{}' is not found.", code),
     }
 }
